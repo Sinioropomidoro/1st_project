@@ -1,12 +1,12 @@
-<div align=«center»>
+<div align="center">
 
 <h1>📚 Учебные задания</h1>
 
 <p><i>Личный проект с домашними и лабораторными работами</i></p>
 
-<img src=«https://img.shields.io/badge/Университет-СибГУТИ-1f6feb?style=for-the-badge» alt=«СибГУТИ»>
-<img src=«https://img.shields.io/badge/Группа-ИКС—633-8957e5?style=for-the-badge» alt=«Группа»>
-<img src=«https://img.shields.io/badge/Статус-в%20процессе-2ea043?style=for-the-badge» alt=«Статус»>
+<img src="https://img.shields.io/badge/Университет-СибГУТИ-1f6feb?style=for-the-badge" alt="СибГУТИ">
+<img src="https://img.shields.io/badge/Группа-ИКС—633-8957e5?style=for-the-badge" alt="Группа">
+<img src="https://img.shields.io/badge/Статус-в%20процессе-2ea043?style=for-the-badge" alt="Статус">
 
 </div>
 
@@ -56,14 +56,14 @@
 <h2>🛠 Инструменты</h2>
 
 <p>
-  <img src=«https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white» alt=«C»>
-  <img src=«https://img.shields.io/badge/NASM-0A0A0A?style=flat-square» alt=«NASM»>
-  <img src=«https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black» alt=«Linux»>
-  <img src=«https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white» alt=«Git»>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/NASM-0A0A0A?style=flat-square" alt="NASM">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
 <hr>
 
-<div align=«center»>
+<div align="center">
   <sub>Сделано студентом СибГУТИ ✨</sub>
 </div>
