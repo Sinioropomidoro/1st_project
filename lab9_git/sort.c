@@ -11,7 +11,7 @@ void bubble_sort(int arr[], int n) {
                 swapped = 1;
             }
         }
-        if (!swapped) break; // массив уже отсортирован
+        if (!swapped) break;
     }
 }
 
@@ -27,3 +27,5 @@ int main(void) {
     printf("\n");
     return 0;
 }
+
+//Добавить комментарий с любым текстом в этот же файл
