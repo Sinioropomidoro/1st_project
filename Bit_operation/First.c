@@ -1,27 +1,20 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     unsigned int a;
-    printf("Введите число a: ");
     scanf("%u", &a);
 
-    int first = 0, last = 0;
-    int n = sizeof(a) * 8;
-
-    for (int i = 0; i < n; i++) {
-        if (a & (1u << i)) {
-            if (first == 0) {
-                first = i + 1;
-            }
-            last = i + 1;
-        }
+    // сначала чётные индексы: 0, 2, 4, ...
+    for (int i = 0; i < 32; i += 2) {
+        printf("%u ", (a >> i) & 1);
     }
+    printf("\n");
 
-    if (first == 0) {
-        printf("В числе нет единичных битов\n");
-    } else {
-        printf("Первый справа единичный бит: %d\n", first);
+    // затем нечётные: 1, 3, 5, ...
+    for (int i = 1; i < 32; i += 2) {
+        printf("%u ", (a >> i) & 1);
     }
+    printf("\n");
 
     return 0;
 }
