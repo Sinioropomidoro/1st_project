@@ -94,4 +94,7 @@ include my name
 15. Used command git diff mybranch main
 ![alt text](image-21.png)
 
-16. 
+16. Commited all screenshots and README.md file
+![alt text](image-22.png)
+
+#Будет на один комит больше т.к. забыл подгрузить самый последний скрин + 17. запушены изменения в ветке main 
