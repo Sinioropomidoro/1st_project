@@ -142,3 +142,20 @@ I'm just doing 9th lab
 15. Added changes and commit was made
 ![alt text](image-32.png)
 
+16. How does journal looks, by output command git log
+![alt text](image-33.png)
+
+17. Added printf("hello git\n"); to main() in file sort.c
+
+18. File sort.c still include sort func and now greetings to git had added
+
+19. git status output:
+![alt text](image-34.png)
+
+20. Used command git restore sort.c
+![alt text](image-35.png)
+
+21. sort.c still include sort func and greetings to git
+
+22. git status output 
+![alt text](image-36.png)
