@@ -139,4 +139,6 @@ I'm just doing 9th lab
 14. git status output:
 ![alt text](image-31.png)
 
-15. 
+15. Added changes and commit was made
+![alt text](image-32.png)
+
