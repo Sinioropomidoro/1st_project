@@ -1,8 +1,8 @@
 Отчет о проделанной работе с шагами
 
-First steps
-
 0. Login to Git acc
+
+Оценка 3:
 
 1. Used command git status
 ![alt text](image.png)
@@ -98,3 +98,45 @@ include my name
 ![alt text](image-22.png)
 
 #Будет на один комит больше т.к. забыл подгрузить самый последний скрин + 17. запушены изменения в ветке main 
+
+Оценка 4:
+
+1. Branch main switched to mybranch 
+
+2. Changes with massive on sort.c file 
+
+3. Used command git diff to see changes
+![alt text](image-23.png)
+
+4. git diff --staged output:
+![alt text](image-25.png)
+
+5. sort.c added to staged
+![alt text](image-24.png)  
+
+6. git diff output info about readme file
+![alt text](image-26.png)
+
+7. git diff --staged output info about file in staged changes
+![alt text](image-27.png)
+
+8. From sort.c removed one numb into array 
+
+9. git diff output info about all changes
+![alt text](image-28.png)
+
+10. git cnahges --staged output info about all staged changes (changes into array)
+![alt text](image-29.png)
+
+11. Discribe what's happening:
+I'm just doing 9th lab
+
+12. git status output:
+![alt text](image-30.png)
+
+13. Used command git resore --staged sort.c
+
+14. git status output:
+![alt text](image-31.png)
+
+15. 
