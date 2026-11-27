@@ -211,4 +211,36 @@ Branches and ff-merge
 17. git log --oneline --graph --all output
 ![alt text](image-51.png)
 
-18. 
+18. Push all
+![alt text](image-52.png)
+
+Оценка 5: 
+
+1. Make branch branch1
+![alt text](image-53.png)
+
+2. Use command echo "this is a relevant fact" > file.txt
+
+3. Commit it
+
+4. Branch branch1 switched to main and used command echo "This is an indispensable truth!" > file.txt
+![alt text](image-54.png)
+
+5. Commit changes to main
+![alt text](image-55.png)
+
+6. git log --oneline --graph --all output
+![alt text](image-56.png)
+
+7. Merge branches main and branch1 
+![alt text](image-57.png)
+
+8. git status output
+![alt text](image-58.png)
+
+9. Accepted both changes in file.txt to remove conflict 
+
+10. git log --oneline --graph
+![alt text](image-59.png)
+
+11. Push changes
