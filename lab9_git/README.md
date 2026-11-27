@@ -159,3 +159,32 @@ I'm just doing 9th lab
 
 22. git status output 
 ![alt text](image-36.png)
+
+23. git pushed
+
+Branches and ff-merge
+
+1. Made file greeting.txt, index and commit it with message “Add file greeting.txt”
+![alt text](image-37.png)
+
+2. Add word hello to file, index and cimmit it with message "Add content to greeting.txt"
+![alt text](image-38.png)
+
+3. 4. Made new branch with name feature/uppercase
+![alt text](image-39.png)
+
+5. git satus output
+![alt text](image-40.png)
+
+6. changed hello to HELLO in file greeting.txt
+
+7. Add and commit changes with greeting.txt
+![alt text](image-41.png)
+
+8. Git branch output
+![alt text](image-42.png)
+
+9. git log --online --graph --all output
+![alt text](image-43.png)
+
+10. Switch to main branch
