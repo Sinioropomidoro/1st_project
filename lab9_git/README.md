@@ -187,4 +187,28 @@ Branches and ff-merge
 9. git log --online --graph --all output
 ![alt text](image-43.png)
 
-10. Switch to main branch
+10. Switch to main branch #README.md was commited for it
+![alt text](image-44.png)
+
+11. used cat to see content of greetings.txt
+![alt text](image-45.png)
+
+12. Look for diffs between main and feature/uppercase branches
+![alt text](image-46.png)
+
+13. Merge branches 
+![alt text](image-47.png)
+
+14. Use cat to see greeting.txt content
+![alt text](image-48.png)
+
+15. Delete feature/uppercase branch
+![alt text](image-49.png)
+
+16. Merge mybranch and main #already was made
+![alt text](image-50.png)
+
+17. git log --oneline --graph --all output
+![alt text](image-51.png)
+
+18. 
