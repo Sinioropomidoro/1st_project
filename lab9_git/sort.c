@@ -16,17 +16,19 @@ void bubble_sort(int arr[], int n) {
 }
 
 int main(void) {
-    int arr[] = {64, 34, 25, 12, 22, 11, 90};
-    int n = sizeof(arr) / sizeof(arr[0]);
+    int a[] = {4, 0};
+    int n = sizeof(a) / sizeof(a[0]);
 
-    bubble_sort(arr, n);
+    bubble_sort(a, n);
 
     for (int i = 0; i < n; i++) {
-        printf("%d ", arr[i]);
+        printf("%d ", a[i]);
     }
     printf("\n");
+    
     return 0;
 }
+
 
 //Добавить комментарий с любым текстом в этот же файл
 //Измените файл еще раз (можно добавить еще комментарий или убрать старый)
